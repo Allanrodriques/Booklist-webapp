@@ -1,0 +1,26 @@
+body {
+    background: #ccfff2;   /*fallback for old browsers */
+}
+form {
+    padding: 5px;
+    line-height: 2rem;
+    font-weight: 500;
+}
+
+.form-control {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.btn-primary {
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+    align-items: center;
+    width: 50%;
+}
+p.btn-danger {
+    font-size: 1rem;
+    
+}
